@@ -1,6 +1,8 @@
 # discord_timestamp
 [Timestamp message](https://discord.com/developers/docs/reference#message-formatting) formatter for Discord, written with [Flutter](https://github.com/flutter).
 
+[![Thumbnail of demonstration video on Android](https://img.youtube.com/vi/5Xmoa1KBEjA/sddefault.jpg)](https://www.youtube.com/watch?v=5Xmoa1KBEjA)
+
 ## Features
 - Format timestamp message for Discord message from picked Date/time, in precision of minutes
 - Timezone offset selection
